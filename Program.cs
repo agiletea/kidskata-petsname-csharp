@@ -9,8 +9,7 @@ namespace PetsName
             PrintWord("Welcome to the Petsname Selector App!");
             PrintLine();
             SelectPetsName();
-            PrintLine();
-            PrintWord("Program has completed. Press any key to exit");
+            PrintWord("Program has completed");
         }
 
         static void SelectPetsName()
